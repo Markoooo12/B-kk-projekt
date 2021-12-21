@@ -1,6 +1,6 @@
 # Projekt
 - By: Juhász Gábor, Utasi Balázs, Ágoston Márk
-- Pages: [Link]()
+- Pages: https://markoooo12.github.io/B-kk-projekt/
 
 ## Főoldal
 - Oldal tetején található navigációs sávon a szókra kattintva átmehetünk aloldalakra,tartalom változik
