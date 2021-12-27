@@ -2,6 +2,7 @@
 - By: Juhász Gábor, Utasi Balázs, Ágoston Márk
 - Pages: [Link](https://markoooo12.github.io/B-kk-projekt/)
 
+
 ## Főoldal
 - Oldal tetején található navigációs sávon a szókra kattintva átmehetünk aloldalakra,tartalom változik
 - Navigációs pont alatt egyből találjuk az oldal tartalmát.
@@ -31,4 +32,3 @@
 |       |     luna.css
 |       |     
 |       |
-```
