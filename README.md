@@ -1,6 +1,7 @@
 # Projekt
 - By: Juhász Gábor, Utasi Balázs, Ágoston Márk
-- Pages: https://markoooo12.github.io/B-kk-projekt/
+- Pages: [Link](https://markoooo12.github.io/B-kk-projekt/)
+
 
 ## Főoldal
 - Oldal tetején található navigációs sávon a szókra kattintva átmehetünk aloldalakra,tartalom változik
@@ -12,12 +13,22 @@
 ├───Projekt
 |   |   README.MD
 |   |   fooldal.html
+|   |   festékek.html
+|   |   faanyagok.html
+|   |   Szerszámkatalógus.html
+|   |   Rólunk.html
+|   |   blog.html
+|   |
 │   └───assets
 │       ├───css
-│       │       alap.css
-│       │
-│       └───img
+│       │     alap.css
+│       │     1.css
 |       |
-│       │
+│       └───img
+|       |     bukkfa_001.png
+│       │     hatter.png
+|       |  
 │       └───Luna-Less
-```
+|       |     luna.css
+|       |     
+|       |
