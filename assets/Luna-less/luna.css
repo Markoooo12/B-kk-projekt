@@ -128,10 +128,7 @@ q:after {
   content: '';
   content: none;
 }
-table {
-  border-collapse: collapse;
-  border-spacing: 0;
-}
+
 /*
  /*
  * Luna Front-end Framework
@@ -566,18 +563,7 @@ table {
 *::after {
   box-sizing: border-box;
 }
-html,
-body,
-h1,
-h2,
-h3,
-h4,
-h6,
-h6,
-p {
-  margin: 0;
-  padding: 0;
-}
+
 html {
   scroll-behavior: smooth;
 }
@@ -585,9 +571,8 @@ body {
   height: 100%;
   font-family: 'Nunito', sans-serif !important;
   font-size: 1rem;
-  font-weight: 400;
+  font-weight: 1000;
   line-height: 1.5;
-  -webkit-tap-highlight-color: transparent;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -761,9 +746,6 @@ select:focus {
 .lh-lg {
   line-height: 2;
 }
-.bg-white {
-  background-color: #ffffff !important;
-}
 .bg-primary {
   background-color: #6752b3;
 }
@@ -886,16 +868,16 @@ header.navbar {
   font-weight: 800;
 }
 .navbar-light {
-  background: #fff;
+  background: #0D2A8A;
 }
 .navbar-light .nav-link {
   color: #a1a1aa;
 }
 .navbar-light .nav-link:hover {
-  color: #6752b3;
+  color: white;
 }
 .navbar-light .active {
-  color: #6752b3;
+  color: white;
 }
 .navbar-dark {
   background: #18181b;
@@ -910,7 +892,7 @@ header.navbar {
   color: #6752b3;
 }
 .navbar-border {
-  border-bottom: 5px solid #6752b3;
+  border-bottom: 5px solid #0D2A8A;
 }
 .navbar-animated .nav-item a::before {
   content: '';
@@ -1041,13 +1023,10 @@ header.navbar {
 h2,
 h3,
 h4 {
-  border-bottom: 1px solid #e1e4e8;
-  margin-top: 8px !important;
-  margin-bottom: 16px !important;
+  margin-top: 4px !important;
+  margin-bottom: 8px !important;
 }
-footer {
-  background: #f4f4f5;
-}
+
 footer ul,
 p {
   margin-block: 0.1rem;
@@ -1076,7 +1055,7 @@ footer a {
   user-select: none;
   -webkit-user-select: none;
   -moz-user-select: none;
-  background: transparent;
+
   border: 1px solid transparent;
   border-radius: 0.25rem;
   padding: 0.35rem 0.75rem;
@@ -1369,23 +1348,9 @@ code.inline-code {
   padding-inline: 0.2rem;
 }
 h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-p {
-  margin-bottom: 0.25rem;
-}
-h1,
 .h1 {
   font-size: 2.5rem;
   font-weight: 700;
-}
-h2,
-.h2 {
-  font-size: 2rem;
-  font-weight: 600;
 }
 h3,
 .h3 {
@@ -1431,10 +1396,6 @@ h6,
 }
 .circle-clip {
   clip-path: circle(50% at 50% 50%);
-}
-body.luna {
-  background: linear-gradient(165deg, rgba(224, 216, 255, 0.15) 50%, #ffffff 50%);
-  background-repeat: no-repeat;
 }
 main.luna {
   display: flex;

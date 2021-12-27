@@ -12,12 +12,23 @@
 ├───Projekt
 |   |   README.MD
 |   |   fooldal.html
+|   |   festékek.html
+|   |   faanyagok.html
+|   |   Szerszámkatalógus.html
+|   |   Rólunk.html
+|   |   blog.html
+|   |
 │   └───assets
 │       ├───css
-│       │       alap.css
-│       │
-│       └───img
+│       │     alap.css
+│       │     1.css
 |       |
-│       │
+│       └───img
+|       |     bukkfa_001.png
+│       │     hatter.png
+|       |  
 │       └───Luna-Less
+|       |     luna.css
+|       |     
+|       |
 ```
