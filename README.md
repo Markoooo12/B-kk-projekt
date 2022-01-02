@@ -1,6 +1,6 @@
 # Projekt
 - By: Juhász Gábor, Utasi Balázs, Ágoston Márk
-- Pages: [Link](https://markoooo12.github.io/B-kk-projekt/)
+- Pages: [Link](https://markoooo12.github.io/B-kk-projekt/index.html)
 
 
 ## Főoldal
@@ -23,12 +23,9 @@
 │       ├───css
 │       │     alap.css
 │       │     1.css
+|       |     bootstrap.css
 |       |
 │       └───img
 |       |     bukkfa_001.png
 │       │     hatter.png
 |       |  
-│       └───Luna-Less
-|       |     luna.css
-|       |     
-|       |
