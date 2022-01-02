@@ -1,0 +1,21 @@
+h2{
+    font-size: 20px;
+    font-weight: 500;
+}
+
+table{
+    margin-right: auto;
+    margin-left: auto;
+}
+body{
+    background:url(img/hatter.png);
+    background-size: 120%;
+}
+.szoveg{
+    background-color: rgba(255, 255, 255, 0.7);
+    
+}
+header{
+    background-color:blue;
+}
+

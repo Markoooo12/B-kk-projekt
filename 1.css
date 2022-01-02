@@ -1,0 +1,62 @@
+.kep1{
+    float:right;
+    border-radius:50%;
+    width:15%;
+    margin-top: -55px;
+    shape-outside: circle(50%);
+}
+
+.bukkszoveg { 
+    text-align:center;
+    margin-bottom:20px;
+}
+
+ul {
+    list-style: none;
+    text-align: left;
+}
+
+li{
+    display: inline-block;
+    padding: 20px 10px;
+}
+
+a{
+    color:white;
+    text-decoration: none;
+}
+
+li :hover{
+    color:white;
+}
+tr{
+    background-color: rgb(rgb(221, 15, 15), green, blue);
+}
+
+tr:nth-child(even) {
+     background-color: #e6e6e6;; }
+
+tr:hover {
+    background-color: pink;
+}
+th{
+    background-color: rgb(46, 46, 46);
+    color: white;
+}
+table{
+    width: 100%;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+}
+body{
+    background-color: rgba(red, green, blue, .6);
+}
+  
+div.transbox {
+    margin: 30px;
+}
+  
+div.transbox p {
+    margin: 5%;
+}
