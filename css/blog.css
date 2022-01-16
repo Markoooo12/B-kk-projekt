@@ -1,0 +1,17 @@
+body{
+    background-image: url(/img/hatter.png);
+}
+.szoveg2{
+    text-shadow:
+    -1px -1px 0 white,
+    1px -1px 0 white,
+    -1px 1px 0 white,
+    1px 1px 0 white;
+font-weight: bold;
+}
+.blogkep2{
+    width: 20%;
+}
+.blogkep3{
+    width: 20%;
+}
