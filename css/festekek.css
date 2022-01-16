@@ -1,0 +1,13 @@
+div {
+    width: 18%;
+    border: 5px solid black;
+    margin: 1.35%;
+    display: inline-block;
+}
+
+img{
+    width: 100%;
+}
+h1{
+    text-align: center;
+}
