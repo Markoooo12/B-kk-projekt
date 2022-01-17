@@ -8,7 +8,7 @@ div{
     display: inline-block;
 }
 body{
-    background-image:url(/img/hatter.png);
+    background-image:url(../img/hatter.png);
 }
 
 .fanev {

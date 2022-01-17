@@ -5,7 +5,7 @@
     shape-outside: circle(50%);
 }
 body{
-    background-image: url(/img/hatter.png);
+    background-image: url(../img/hatter.png);
 }
 .hatterize{
     background-color: rgba(255, 255, 255, 0.7);
