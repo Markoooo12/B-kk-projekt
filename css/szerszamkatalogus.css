@@ -1,12 +1,16 @@
 .kep1{
     float:right;
     width: 8%;
-    margin-top: -5%;
+    margin-top: 0%;
     shape-outside: circle(50%);
 }
-body{
-    background-image: url(../img/hatter.png);
-}
+html { 
+    background: url(../img/hatter.png) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
 .hatterize{
     background-color: rgba(255, 255, 255, 0.7);
 }
@@ -15,10 +19,4 @@ body{
     width:5%;
     margin-top: -0.2%;
     shape-outside: circle(50%);
-}
-.csavarhuzo{
-    background-color: rgba(255, 255, 255, 0.7);
-}
-.csavarhuzo2{
-    background-color: rgba(255, 255, 255, 0.7);
 }
