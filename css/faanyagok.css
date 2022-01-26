@@ -7,9 +7,13 @@
 div{
     display: inline-block;
 }
-body{
-    background-image:url(../img/hatter.png);
-}
+html { 
+    background: url(../img/hatter.png) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
 
 .fanev {
     background-color: blue; 
@@ -27,9 +31,6 @@ h1{
 .kep1{
     border-radius:50%;
     margin-top: -55px;
-}
-.div1{
-    margin-left: 20%;
 }
 #button1{
     margin-left: 69%;

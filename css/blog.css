@@ -1,6 +1,10 @@
-body{
-    background-image: url(../img/hatter.png);
-}
+html { 
+    background: url(../img/hatter.png) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
 .szoveg2{
     text-shadow:
     -1px -1px 0 white,
