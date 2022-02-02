@@ -11,12 +11,16 @@ html {
     -o-background-size: cover;
     background-size: cover;
   }
-.hatterize{
-    background-color: rgba(255, 255, 255, 0.7);
-}
+
 .kep2{
     float:right;
     width:5%;
     margin-top: -0.2%;
+    shape-outside: circle(50%);
+}
+.kep3{
+    float:right;
+    width:10%;
+    margin-top: -5%;
     shape-outside: circle(50%);
 }

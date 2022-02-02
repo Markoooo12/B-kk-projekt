@@ -14,8 +14,17 @@ html {
 font-weight: bold;
 }
 .blogkep2{
-    width: 20%;
+    float:right;
+    width:15%;
+    margin-top: -1.5%;
 }
 .blogkep3{
-    width: 20%;
+    float:right;
+    width:15%;
+    margin-top: -2.75%;
+}
+.blogkep1{
+    float:right;
+    width:10%;
+    margin-top: -5%;
 }
