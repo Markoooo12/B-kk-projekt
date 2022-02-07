@@ -2,11 +2,6 @@
 - By: Juhász Gábor, Utasi Balázs, Ágoston Márk
 - Pages: [Link](https://markoooo12.github.io/B-kk-projekt/index.html)
 
-
-## Főoldal
-- Oldal tetején található navigációs sávon a szókra kattintva átmehetünk aloldalakra,tartalom változik
-- Navigációs pont alatt egyből találjuk az oldal tartalmát.
-
 ## Projekt felépítés
 - A projekt felépítése:
 ```
@@ -33,6 +28,10 @@
 │       │     főoldal.css
 │       │     rolunk.css 
 │       │     szerszamkatalogus.css
+│       │     cseresznye.css
+│       │     dio.css 
+│       │     mahagoni.css
+│       │     tolgy.css
 │       └───img
 |           |     bukkfa_001.png
 │           │     hatter.png
