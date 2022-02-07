@@ -1,6 +1,6 @@
 .kep1{
     float:right;
-    width: 8%;
+    width: 25%;
     margin-top: 0%;
     shape-outside: circle(50%);
 }
@@ -14,13 +14,19 @@ html {
 
 .kep2{
     float:right;
-    width:5%;
+    width:25%;
     margin-top: -0.2%;
     shape-outside: circle(50%);
 }
 .kep3{
     float:right;
-    width:10%;
-    margin-top: -5%;
+    width: 25%;
+    margin-top: -10%;
     shape-outside: circle(50%);
+}
+.festek{
+width: 69%;
+border: 2px solid black;
+margin: 1.35%;
+display: inline-block;
 }
