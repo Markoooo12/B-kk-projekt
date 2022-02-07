@@ -1,8 +1,17 @@
 .marko{
-    width: 17%;
+    float:right;
+    width: 7%;
+    margin-top: -5%;
 }
 .gabor{
-    width: 17%;
+    float:right;
+    width: 7%;
+    margin-top: -4%;
+}
+.balazs{
+    float:right;
+    width: 7%;
+    margin-top: -3%;
 }
 html { 
     background: url(../img/hatter.png) no-repeat center center fixed; 
