@@ -1,0 +1,32 @@
+html { 
+    background: url(../img/hatter.png) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+ul {
+    list-style: none;
+    text-align: left;
+}
+
+li{
+    display: inline-block;
+    padding: 20px 10px;
+}
+
+a{
+    color:white;
+    text-decoration: none;
+}
+
+li :hover{
+    color:white;
+}
+.kep1{
+    float:right;
+    border-radius:50%;
+    width:15%;
+    margin-top: -55px;
+    shape-outside: circle(50%);
+}
